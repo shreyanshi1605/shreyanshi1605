@@ -10,7 +10,7 @@
 1. [Paris Olympics 2024](https://github.com/shreyanshi1605/ParisOlympic2024): Explored the Paris Olympics 2024 trend using **Power BI** and **Python**.
 2. [Google Trend](https://github.com/shreyanshi1605/Google-Trend---PowerBI): A real-time search analysis for various keyword in **Power BI** using API.
 3. [Credit Card Analyis](https://github.com/shreyanshi1605/Credit-Card-Transaction-and-Customer-Analysis): Comprehensive credit card Transaction and customer analysis in **Power BI** using **SQL**.
-4. [Black Friday EDA and Feature Engineering](https://github.com/shreyanshi1605/BlackFriday_EDA_And_Feature_Engineering): Exploratory Data Analysis on black Friday and 
+4. [Black Friday EDA and Feature Engineering](https://github.com/shreyanshi1605/BlackFriday_EDA_And_Feature_Engineering): Exploratory Data Analysis and Feature Engineering on black Friday using **Python**.
 5. [Library Management System](https://github.com/shreyanshi1605/Library_Management_System_using_SQL): Implementation of Library Management System using **SQL** including database design, data manipulation, and data querying.
 
 📜 Certifications: See my certifications, including Advanced Excel and Tableau.
